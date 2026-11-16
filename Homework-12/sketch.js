@@ -10,7 +10,7 @@ async function setup() {
   ellipseMode(CENTER);
   frameRate(1);
 
-  stormSound = await loadSound('./assets/Storm.mp4');
+  stormSound = await loadSound('./assets/Storm.mp3');
 
 }
 
